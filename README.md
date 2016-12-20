@@ -9,5 +9,5 @@ statements:
   to
   [A9F76C67](https://sks-keyservers.net/pks/lookup?op=get&search=0xB8F92B08A9F76C67)
 
-My active keys is always available from the fully validated [MojeID
+My active key is always available from the fully validated [MojeID
 account](https://llhotka.mojeid.cz/).
